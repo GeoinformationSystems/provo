@@ -1,3 +1,5 @@
+The package is further developed at https://github.com/rue-a/provo. 
+
 # README
 
 The package creates provenance graphs according to PROV-O (i.e. in RDF). _The package is based on __rdflib___. https://rdflib.readthedocs.io/en/stable/rdf_terms.html
@@ -95,6 +97,8 @@ buffer.endedAtTime(datetime(2020, 6, 6, 12, 4, 30))
 - rdflib: https://rdflib.readthedocs.io/en/stable/, BSD License
 
 ## License
+
+MIT
 
 ## Contact
 
